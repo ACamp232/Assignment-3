@@ -27,6 +27,7 @@ def get_lat_long(place_name):
     See https://developer.mapquest.com/documentation/geocoding-api/address/get/
     for Mapquest Geocoding API URL formatting requirements.
     """
+    
     pass
 
 
